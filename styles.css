@@ -1,0 +1,29 @@
+body {
+  background-color: darkgray;
+  font-family: "Lato", sans-serif;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+h1 {
+  border: 1px dashed yellow;
+  width: 250px;
+  text-align: center;
+  height: 45px;
+}
+#game {
+  margin: 10px;
+  width: 95%;
+  height: 70vh;
+  background-color: rgb(12, 109, 12);
+  border: 1px solid black;
+}
+#player {
+  width: 50px;
+  height: 50px;
+}
+#tree {
+  width: 60px;
+  height: 60px;
+}
